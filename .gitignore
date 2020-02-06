@@ -60,3 +60,4 @@ crashlytics-build.properties
 
 Project1/Library/
 Project1/Temp/
+/Project1/obj/
